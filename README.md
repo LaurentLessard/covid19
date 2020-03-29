@@ -2,4 +2,6 @@
 
 All data come from the [Johns Hopkins Center for Systems Science and Engineering](https://systems.jhu.edu/)
 
-- [Total deaths for different countries](https://github.com/LaurentLessard/covid19/blob/master/covid.ipynb)
+- [Death toll comparison](https://github.com/LaurentLessard/covid19/blob/master/covid.ipynb)
+  - Plot of shifted death toll
+  - Plot of growth rate comparison in death toll
