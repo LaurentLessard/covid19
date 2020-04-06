@@ -1,6 +1,6 @@
 # Visualizations of COVID-19 data
 
-All data come from the [Johns Hopkins Center for Systems Science and Engineering](https://systems.jhu.edu/)
+All data come from the [Johns Hopkins Center for Systems Science and Engineering](https://systems.jhu.edu/) and [covidtracking.com](https://covidtracking.com/)
 
 - [Death toll comparison between countries](https://github.com/LaurentLessard/covid19/blob/master/covid.ipynb)
   - Plot of shifted death toll
