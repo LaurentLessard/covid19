@@ -8,3 +8,5 @@ All data come from the [Johns Hopkins Center for Systems Science and Engineering
   - Ten-Hundred plot (idea by [Jerry Zhu](https://www.youtube.com/watch?v=NP3ZdQwrL_Q))
 - [Death toll comparison between US states](https://github.com/LaurentLessard/covid19/blob/master/covid_us.ipynb)
   - Plot of shifted death toll
+- [Death toll comparison between Candian provinces](https://github.com/LaurentLessard/covid19/blob/master/covid_can.ipynb)
+  - Plot of shifted death toll
