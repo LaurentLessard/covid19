@@ -23,5 +23,6 @@ All data come from the [Johns Hopkins Center for Systems Science and Engineering
 | Description                    | Image link | Description                    | Image link |
 |--------------------------------|------------|--------------------------------|------------|
 | Cubic (side-by-side) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/cubic_fit.png" width="210"> | Cubic (comparison) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/cubic_fit_multi.png" width="210"> |
-| More models | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/more_fits.png" width="210"> | Skew-normal fits | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/skew_normal_model.png" width="210"> |
+| skew-normal (linear scale) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/skew_normal_model_linear.png" width="210"> | skew-normal (log scale) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/skew_normal_model_log.png" width="210"> |
+| More models | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/more_fits.png" width="210"> |
 
