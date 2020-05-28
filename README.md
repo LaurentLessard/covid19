@@ -1,4 +1,4 @@
-# Visualizations of COVID-19 data
+# Visualizations of COVID-19 data (updated daily!)
 
 All data come from the [Johns Hopkins Center for Systems Science and Engineering](https://systems.jhu.edu/) and [covidtracking.com](https://covidtracking.com/)
 
