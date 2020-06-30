@@ -8,6 +8,7 @@ All data come from the [Johns Hopkins Center for Systems Science and Engineering
 | Total deaths (log scale) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_total_deaths_vs_time.png" width="210"> | Total deaths (linear scale) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_total_deaths_vs_time_linear.png" width="210"> |
 | Daily deaths | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_daily_deaths_vs_time.png" width="210"> | Growth rate plot | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_total_deaths_growth.png" width="210"> |
 | Heatmap plot | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_total_deaths_heatmap.png" width="210"> | Ten-Hundred Plot ([explanation](https://www.youtube.com/watch?v=NP3ZdQwrL_Q))| <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_total_deaths_tenhundred.png" width="210"> |
+| Daily confirmed cases | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_daily_cases.png" width="210"> | Breakdown of daily cases by country | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/world_daily_cases_breakdown.png" width="210"> |
 
 ## [Comparisons between US states](https://github.com/LaurentLessard/covid19/blob/master/covid_us.ipynb)
 | Description                    | Image link | Description                    | Image link |
