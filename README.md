@@ -14,7 +14,7 @@ All data come from the [Johns Hopkins Center for Systems Science and Engineering
 | Description                    | Image link | Description                    | Image link |
 |--------------------------------|------------|--------------------------------|------------|
 | Total deaths (log scale) | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/states_total_deaths_vs_time.png" width="210"> | Daily deaths | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/states_daily_deaths_vs_time.png" width="210"> |
-| Breakdown of daily cases by state | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/states_daily_cases_breakdown.png" width="210"> | |
+| Breakdown of daily cases by state | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/states_daily_cases_breakdown.png" width="210"> | Geographical view of daily cases | <img src="https://github.com/LaurentLessard/covid19/blob/master/figures/states_daily_cases_map.png" width="210"> |
 
 ## [Comparisons between Canadian provinces](https://github.com/LaurentLessard/covid19/blob/master/covid_can.ipynb)
 | Description                    | Image link | Description                    | Image link |
